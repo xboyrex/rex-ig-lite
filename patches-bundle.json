@@ -1,6 +1,6 @@
 {
-  "created_at": "2026-11-01T08:40:00",
-  "description": "## [3.12.0](https://github.com/xboyrex/rex-ig-lite/releases/tag/v3.12.0) (2026-11-01)\n\n### \u2728 New Features\n\n* **xboyrex:** Full unified Instagram & X patch suite with Android classes.dex bundle support, 60+ custom vector outline icons, Quick Action Menu, Secret Blocked Profile viewer, and support for Instagram 453.0.0.57.79, 451.0.0.53.80, and 447.0.0.55.81.",
+  "created_at": "2026-11-01T04:17:19",
+  "description": "xboyrex Unified Patches v3.12.0 by Mayank (@xboyrex)",
   "download_url": "https://github.com/xboyrex/rex-ig-lite/releases/download/v3.12.0/patches-3.12.0.mpp",
   "signature_download_url": "",
   "version": "3.12.0"
