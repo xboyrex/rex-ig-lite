@@ -66,27 +66,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -115,27 +115,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -277,27 +277,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -340,27 +340,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -429,27 +429,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -529,27 +529,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -634,27 +634,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -743,27 +743,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -848,27 +848,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -896,27 +896,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1057,27 +1057,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1299,27 +1299,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1348,27 +1348,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1397,27 +1397,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1503,27 +1503,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1552,27 +1552,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1604,27 +1604,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1653,27 +1653,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1701,27 +1701,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1749,27 +1749,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1798,27 +1798,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1846,27 +1846,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1894,27 +1894,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1944,27 +1944,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -1992,27 +1992,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -2053,27 +2053,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -2130,27 +2130,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -2348,27 +2348,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -2398,27 +2398,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -2450,27 +2450,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -2530,27 +2530,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -2729,6 +2729,54 @@
       "options": []
     },
     {
+      "name": "Hide Instants view",
+      "description": "Stops Instagram from marking Instants you watch as seen.",
+      "default": true,
+      "dependencies": [
+        "BytecodePatch"
+      ],
+      "compatiblePackages": [
+        {
+          "packageName": "com.instagram.android",
+          "name": "Instagram",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#FC483C",
+          "signatures": null,
+          "targets": [
+            {
+              "version": "453.0.0.57.79",
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "451.0.0.53.80",
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            },
+            {
+              "version": "447.0.0.55.81",
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
       "name": "Hide Live Threads",
       "description": null,
       "default": true,
@@ -2802,27 +2850,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -2963,27 +3011,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3068,27 +3116,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3230,27 +3278,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3279,27 +3327,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3327,27 +3375,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3375,27 +3423,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3423,27 +3471,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3529,27 +3577,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3577,27 +3625,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3654,27 +3702,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3730,27 +3778,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3782,27 +3830,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3830,27 +3878,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3914,27 +3962,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -3966,27 +4014,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -4140,27 +4188,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -4218,27 +4266,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -4295,27 +4343,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -4485,27 +4533,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -4535,27 +4583,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -4585,27 +4633,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -4639,27 +4687,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -4875,7 +4923,7 @@
     },
     {
       "name": "Theme",
-      "description": "Adds Material You and AMOLED controls to RexPrime settings on Android 12 and later. On Android 8\u201311, it applies a fixed Material You-style theme or an optional AMOLED theme.",
+      "description": "Adds Material You and AMOLED controls to RexPrime settings on Android 12 and later. On Android 8–11, it applies a fixed Material You-style theme or an optional AMOLED theme.",
       "default": true,
       "dependencies": [
         "BytecodePatch",
@@ -4893,27 +4941,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -4924,8 +4972,8 @@
       "options": [
         {
           "key": "amoled",
-          "title": "Pure-black AMOLED theme for Android 8\u201311",
-          "description": "Use a fixed pure-black AMOLED theme instead of the fixed Material You-style theme on Android 8\u201311. On Android 12 and later, use the AMOLED control in RexPrime settings.",
+          "title": "Pure-black AMOLED theme for Android 8–11",
+          "description": "Use a fixed pure-black AMOLED theme instead of the fixed Material You-style theme on Android 8–11. On Android 12 and later, use the AMOLED control in RexPrime settings.",
           "required": false,
           "type": "kotlin.Boolean",
           "default": false,
@@ -4951,27 +4999,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -5001,27 +5049,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -5051,27 +5099,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -5101,27 +5149,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -5152,27 +5200,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -5203,27 +5251,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -5256,27 +5304,27 @@
           "targets": [
             {
               "version": "453.0.0.57.79",
-              "versionCodes": [
-                385914517
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385914517
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "451.0.0.53.80",
-              "versionCodes": [
-                385704221
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385704221
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null
             },
             {
               "version": "447.0.0.55.81",
-              "versionCodes": [
-                385311895
-              ],
+              "versionCodes": {
+                "ARM64_V8A": 385311895
+              },
               "isExperimental": false,
               "minSdk": null,
               "description": null

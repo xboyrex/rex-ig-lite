@@ -61,7 +61,7 @@
 ## ⚙️ Patch Details
 
 <!-- PATCHES_START -->
-> **[v3.11.0](https://github.com/xboyrex/rex-ig-lite/releases/tag/v3.11.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;137 patches total
+> **[v3.11.0](https://github.com/xboyrex/rex-ig-lite/releases/tag/v3.11.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;138 patches total
 <details>
 <summary>📦 Twitter&nbsp;&nbsp;•&nbsp;&nbsp;75 patches</summary>
 <br>
@@ -152,7 +152,7 @@
 </details>
 
 <details>
-<summary>📦 Instagram&nbsp;&nbsp;•&nbsp;&nbsp;62 patches</summary>
+<summary>📦 Instagram&nbsp;&nbsp;•&nbsp;&nbsp;63 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -193,6 +193,7 @@
 | [Filter stories](#filter-stories) | Filter stories to hide based on different categories |  |
 | [Focus Lock](#focus-lock) | Commitment mode for cutting down on Instagram. Pick what to block (Reels, Explore) and a duration; once locked those protections are forced on and cannot be switched off. Reels shared with you still open. Unlocking early requires a 24 hour cooling-off period, and resetting or importing settings is blocked while locked. |  |
 | [Friendship status indicator](#friendship-status-indicator) | Adds a follows you back status label on the profile page andshows a detailed friendship status breakdown on click |  |
+| [Hide Instants view](#hide-instants-view) | Stops Instagram from marking Instants you watch as seen. |  |
 | [Hide Reels follow button](#hide-reels-follow-button) | Removes the follow button from Reels. |  |
 | [Hide group creation button on sharesheet](#hide-group-creation-button-on-sharesheet) |  |  |
 | [Hide notes tray](#hide-notes-tray) | Hides notes tray in DM section |  |
