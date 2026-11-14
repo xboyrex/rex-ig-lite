@@ -1,6 +1,6 @@
 {
-  "created_at": "2026-11-14T06:30:00",
-  "description": "## v3.13.0 — xboyrex Unified Liquid Glass Instagram & X Patch Suite\n\n- **Unified 5-Archive Integration**: Combined full Instagram & X bytecode patches + 400+ extension classes into `xboyrex` (`v3.13.0`) with zero third-party branding.\n- **Exact SakuraTunes-Style Liquid Glass About Screen**: Scalloped Sakura Music badge + Black Instagram Camera icon badge side-by-side, Developer Card with anime avatar, 2x2 Social Grid, and `COMMUNITY & INFO` cards.\n- **Real-Time Gaussian Background Blur**: Hardware-accelerated `RenderEffect` blur (`radius = 26f`) + Window `FLAG_BLUR_BEHIND` (`radius = 42`) on every popup, modal sheet, and dialog.\n- **Zero-Prompt Direct Download on Redmi / HyperOS**: Saves directly to `Download/xboyrex/` via `MediaStore.Downloads` on first tap without requiring a SAF folder picker.\n- **100% Unlocked Features**: No Premium lock, no crown icons, and every toggle, copy/paste action, vault, and quick menu works end-to-end.",
+  "created_at": "2026-11-14T11:13:37",
+  "description": "## v3.13.0 \u2014 xboyrex Unified Liquid Glass Instagram & X Patch Suite\n\n- 161 Unified Patches (87 Instagram + 74 X/Twitter) by Mayank (@xboyrex)\n- SakuraTunes-style Liquid Glass About UI + Real-Time Gaussian Blur\n- Zero-Prompt MediaStore Direct Download on Redmi/HyperOS",
   "download_url": "https://github.com/xboyrex/rex-ig-lite/releases/download/v3.13.0/patches-3.13.0.mpp",
   "signature_download_url": "",
   "version": "3.13.0"
