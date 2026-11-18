@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Full-scale camera glyph inside the 66dp adaptive safe zone (26..82) matching Instagram/InstaPrime/InstaZen proportions in 23480.png -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="5.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M39,26.5 L69,26.5 C75.904,26.5 81.5,32.096 81.5,39 L81.5,69 C81.5,75.904 75.904,81.5 69,81.5 L39,81.5 C32.096,81.5 26.5,75.904 26.5,69 L26.5,39 C26.5,32.096 32.096,26.5 39,26.5 Z" />
+    <!-- Center camera lens ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="5.2"
+        android:pathData="M54,40.5 A13.5,13.5 0 1,1 53.99,40.5 Z" />
+    <!-- Top-right flash dot -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M69.5,34.8 A3.6,3.6 0 1,1 69.49,34.8 Z" />
+</vector>
